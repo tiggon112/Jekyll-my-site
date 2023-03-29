@@ -9,7 +9,7 @@ about shopping. No real updates today. I'm going to try and get the guestbook
 to work, but I don't know if I'll be able to do it the way I want, which will
 suck ass.
 
-[Today's Picture]({{ "/images/posts/2001/josh30.jpg" | relative_url }} )
+[Today's Picture]({{ "/images/posts/2001/tiggon30.jpg" | relative_url }} )
 
 Mall Pictures:
 

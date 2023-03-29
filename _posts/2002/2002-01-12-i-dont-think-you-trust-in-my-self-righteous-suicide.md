@@ -9,4 +9,4 @@ then just abandoning them. Anyone who sees the new design, tell me what you
 think.
 
 MUSIC: System of a Down - Chop! Suey  
-TODAY'S PICTURE: Me with crimped hair that looks like Jon Bon Jovi ([View]({{ "/images/posts/2002/josh_crimp_02.jpg" | relative_url }}))
+TODAY'S PICTURE: Me with crimped hair that looks like Jon Bon Jovi ([View]({{ "/images/posts/2002/tiggon_crimp_02.jpg" | relative_url }}))

@@ -269,7 +269,7 @@ Then in _that_ `~/.gitconfig.local` file, specific customizations are made:
 
 ```
 [user]
-  email = work@josh.fail
+  email = work@tiggon.fail
 ```
 
 ### Bonus: Bash/ZSH aliases

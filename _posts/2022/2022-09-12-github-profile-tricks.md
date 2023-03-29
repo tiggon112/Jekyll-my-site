@@ -8,6 +8,6 @@ category: dev
 I saw this post on some [GitHub profile tricks][1]. I really need to give mine
 some love...
 
-Hey, Josh-a-year-from-now: You probably still need to do this!
+Hey, Tiggon-a-year-from-now: You probably still need to do this!
 
 [1]: {{ page.link}}

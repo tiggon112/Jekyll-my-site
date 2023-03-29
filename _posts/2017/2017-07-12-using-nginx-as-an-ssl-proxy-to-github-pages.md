@@ -18,14 +18,14 @@ up.
 
 A neat "feature" of GitHub Pages is that it uses the `Host` HTTP header to
 determine the repo to serve using a request to your own Pages domain. For
-example, I have <https://github.com/itspriddle/josh.fail>. I can request the
-GitHub Pages site there with `curl -H "Host: josh.fail"
+example, I have <https://github.com/itspriddle/tiggon.fail>. I can request the
+GitHub Pages site there with `curl -H "Host: tiggon.fail"
 https://itspriddle.github.io`. Unlike a normal request to Pages site under a
 custom domain, this one is encrypted since `*.github.io` supports SSL.
 
 Nginx has a great feature called `proxy_pass`, that basically proxies any
 request to another URL, and you can adjust headers (and more) along the way.
-This allows me to forward requests from `https://josh.fail` on my box to the
+This allows me to forward requests from `https://tiggon.fail` on my box to the
 Pages install at GitHub in a fairly simple way.
 
 On port 80, requests to `/.well-known/acme-challenge/*` attempt to serve Let's
@@ -38,7 +38,7 @@ server {
   listen 80 default_server;
   listen [::]:80 default_server;
 
-  server_name josh.fail;
+  server_name tiggon.fail;
 
   location /.well-known/acme-challenge/ {
     root /var/www/letsencrypt;
@@ -51,7 +51,7 @@ server {
 ```
 
 On port 443, all requests use `proxy_pass` and are forwarded to my own GitHub
-Pages site with the `Host: josh.fail` header set. Since GitHub already
+Pages site with the `Host: tiggon.fail` header set. Since GitHub already
 aggressively caches, I skip that here. (I _did_ attempt to use `proxy_cache`
 and friends, but couldn't get it to work).
 
@@ -60,10 +60,10 @@ server {
   listen 443 ssl http2 default_server;
   listen [::]:443 ssl http2 default_server;
 
-  server_name josh.fail;
+  server_name tiggon.fail;
 
   include snippets/ssl-params.conf;
-  include snippets/ssl-josh.fail.conf;
+  include snippets/ssl-tiggon.fail.conf;
 
   location / {
     proxy_pass              https://itspriddle.github.io;

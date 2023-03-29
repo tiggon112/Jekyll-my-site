@@ -12,7 +12,7 @@ site into the bank. It took me all day to find a bank that would let me open a
 checking account so I could get a debit card. Haha... then the one I did find
 would only put the card in my mom's name. So now I've got starter checks,
 which everyone knows are completely and utterly useless. I should have just
-put my money into the bank of Josh, a big dirty sock.
+put my money into the bank of Tiggon, a big dirty sock.
 
 I got my digicam back from Tony's house finally. Now you'll all be able to
 have erotic fantasies about me and have pictures to go with them! Aww you're

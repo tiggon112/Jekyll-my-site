@@ -17,7 +17,7 @@ class Post < ActiveRecord::Base
 end
 
 p = Post.new
-p.meta = { author: 'Josh' }
+p.meta = { author: 'Tiggon' }
 ```
 
 I needed a way to perform validations on specific values of a serialized
@@ -35,10 +35,10 @@ end
 p = Post.new
 p.valid? #=> false
 p.errors[:author] #=> ["can't be blank"]
-p.author = 'Josh'
+p.author = 'Tiggon'
 p.valid? #=> true
 
-p = Post.new meta: { author: 'Josh' }
+p = Post.new meta: { author: 'Tiggon' }
 p.valid? #=> true
 ```
 

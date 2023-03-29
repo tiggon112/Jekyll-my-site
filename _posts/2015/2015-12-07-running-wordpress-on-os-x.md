@@ -124,7 +124,7 @@ core config:
     define('WP_SITEURL', 'http://localhost:9000');
 
 core install:
-  admin_user: josh
+  admin_user: tiggon
   admin_password: passw0rd
   admin_email: jpriddle@me.com
   url: http://localhost:9000

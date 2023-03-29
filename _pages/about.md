@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I'm Josh. I make web hosting and web hosting accessories.
+I'm Tiggon. I make web hosting and web hosting accessories.
 
 I've been working on SaaS apps since 2006 (before we called 'em "SaaS apps").
 I mainly program in Ruby, PHP, and Bash.
@@ -29,5 +29,5 @@ Pages][].
 [professional]: {{ "/work/" | relative_url }}
 [open source]: {{ "/projects/" | relative_url }}
 [A2 Hosting]: https://www.a2hosting.com/about/careers
-[blog]: https://github.com/{{ site.author.github }}/josh.fail
+[blog]: https://github.com/{{ site.author.github }}/tiggon.fail
 [GitHub Pages]: https://pages.github.com/

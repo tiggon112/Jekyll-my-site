@@ -48,7 +48,7 @@ set_git_author() {
 With the custom function approach, your `.envrc` file would look like:
 
 ```sh
-set_git_author me@work.com "Not Josh"
+set_git_author me@work.com "Not Tiggon"
 ```
 
 Once you have edited `.envrc`, you must allow it to be executed by direnv by

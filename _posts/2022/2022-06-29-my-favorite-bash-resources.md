@@ -35,7 +35,7 @@ Finally, I can't mention Bash resources and not preach about [ShellCheck][4].
 This tool helps you find bugs and follow best practices in your shell scripts.
 Things like quoting variables or using `=` when you meant `-eq` get called
 out. There are a variety of plugins available for various `$EDITORS`, too
-(like [vim-shellcheck][5] by some dude named Josh).
+(like [vim-shellcheck][5] by some dude named Tiggon).
 
 I use ShellCheck for **every** Bash script I write now, and I force it on
 every person I see writing Bash code. Seriously, do yourself a favor and use

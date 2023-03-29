@@ -33,7 +33,7 @@ which shows some of TiFighter's usage (note that I've aliased `$` to
  * DotBlock Mobile
  *
  * @package     DotBlock
- * @author      Joshua Priddle <jpriddle@nevercraft.net>
+ * @author      Tiggonua Priddle <jpriddle@nevercraft.net>
  * @copyright   Copyright (c) 2011, DotBlock, Inc
  * @version     1.0
  * @url         http://www.dotblock.com/

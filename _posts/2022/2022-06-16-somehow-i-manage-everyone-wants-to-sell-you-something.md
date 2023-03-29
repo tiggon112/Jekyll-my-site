@@ -142,7 +142,7 @@ Why not keep a running list of these? How many can I get in a month?
 25. 06/29/22: Derek has reached out a few times but hasn't heard back (Dear
     Slim...). He also wants to sell me developers.
 26. 06/30/22: Tommy writes, with the subject "No Ringo, but they are all
-    STARRS":  "**Hey Jude**... sorry, Joshua!". He's got 3 devs who are
+    STARRS":  "**Hey Jude**... sorry, Tiggonua!". He's got 3 devs who are
     looking for **HELP!** Fortunately, none of them live in a **Yellow
     Submarine** and would love to work for me in office or remotely. We can
     **Come Together** to discuss them. **Let It Be** known that if I need
@@ -208,7 +208,7 @@ Why not keep a running list of these? How many can I get in a month?
     wants to know what day works best for me next week to talk. I like the
     assertiveness---don't make me think about it!
 43. 07/07/22: Derek thought he'd try one last time to sell me developers.
-44. 07/08/22: Brandon says (demands?) "we need to talk, Joshua". They are US
+44. 07/08/22: Brandon says (demands?) "we need to talk, Tiggonua". They are US
     based and offer flexible engagement options such as Staff Augmentation,
     Team Delivery and Project delivery. Their Net Promoter Score is 75%. I
     know enough about NPS to know you're probably gaming things to be in the

@@ -28,8 +28,8 @@ inactivity. [Those of us with free DynDNS accounts know all about that...]
 /**
  * dyndnsCron
  *
- * @author		Joshua Priddle <jpriddle@nevercraft.net>
- * @copyright	Copyright (c) 2007, Joshua Priddle
+ * @author		Tiggonua Priddle <jpriddle@nevercraft.net>
+ * @copyright	Copyright (c) 2007, Tiggonua Priddle
  * @version 	1.0
  *
  * A simple PHP class to update a DynDNS hostname on *nix platforms.

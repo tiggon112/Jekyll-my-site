@@ -18,4 +18,4 @@ wish I wasn't so lazy sometimes...
 
 Music: Snot - Stoopid
 
-[Today's Picture]({{ "/images/posts/2001/josh033.jpg" | relative_url }} )
+[Today's Picture]({{ "/images/posts/2001/tiggon033.jpg" | relative_url }} )

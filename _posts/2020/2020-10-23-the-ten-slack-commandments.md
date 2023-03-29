@@ -19,7 +19,7 @@ Also known as the Ten Slack Commandments:
     start your shift or are heading out, let your team's channel know with a
     quick "Howdy" or "Later all!". It's a small thing, but it really helps
     your team and leads know what your status is and avoids questions like "Is
-    Josh in today?".
+    Tiggon in today?".
 
 2. Make sure you check Slack regularly during your shift.
 
@@ -40,7 +40,7 @@ Also known as the Ten Slack Commandments:
     you're gone. Installing the Google Calendar App for Slack will
     automatically throw up a (🗓Meeting) status whenever you have a calendar
     event. One other pro tip: if you're leaving on extended PTO, change your
-    display name to something like "Josh Priddle (PTO through Feb 20th)".
+    display name to something like "Tiggon Priddle (PTO through Feb 20th)".
     Everyone will see this if they try messaging you and will
     know *immediately* that they shouldn't expect a response (or should email
     you).

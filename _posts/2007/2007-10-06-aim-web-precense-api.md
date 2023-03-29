@@ -31,7 +31,7 @@ function aim_presence() {
 	// See http://developer.aim.com/ref_api for details on AIM's API
 
 	// This is the URL to a special XML file produced by AIM.. replace with your AIM API key
-	$url = "http://api.oscar.aol.com/presence/get?k=AIM_API_KEY&f=xml&t=joshnevercraft&statusMsg=1";
+	$url = "http://api.oscar.aol.com/presence/get?k=AIM_API_KEY&f=xml&t=tiggonnevercraft&statusMsg=1";
 
 	$ch = curl_init();
 	curl_setopt($ch, CURLOPT_URL, $url);
@@ -48,11 +48,11 @@ function aim_presence() {
 	$icon = $xml->data->users->user[0]->presenceIcon;
 
 	if ( $state == 'away' || $state == 'online' ) {
-		$out .= '<a href="aim:goim?screenname=Joshnevercraft&amp;message=Follow+the+white+rabbit" title="'.
-				$status.'">josh nevercraft</a> '.
+		$out .= '<a href="aim:goim?screenname=Tiggonnevercraft&amp;message=Follow+the+white+rabbit" title="'.
+				$status.'">tiggon nevercraft</a> '.
 				'( '. ucfirst( $state ) .' )';
 	} else {
-		$out .= "josh nevercraft ( Offline )";
+		$out .= "tiggon nevercraft ( Offline )";
 	}
 	return $out. '</span>';
 }

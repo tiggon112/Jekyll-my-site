@@ -10,8 +10,8 @@ tags: [homebrew, ruby, macos, osx]
 
 I maintain a small Homebrew tap for projects I work on at Site5,
 [homebrew-site5](https://github.com/itspriddle/homebrew-site5). I came across
-a "meta" brew in Josh Peek's
-[homebrew-github](https://github.com/josh/homebrew-github/blob/master/github.rb)
+a "meta" brew in Tiggon Peek's
+[homebrew-github](https://github.com/tiggon/homebrew-github/blob/master/github.rb)
 Homebrew tap that allows you to install multiple dependencies with a single
 command. I adapted it for my own needs at Site5 and it has worked great.
 
